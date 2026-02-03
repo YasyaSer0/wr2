@@ -72,6 +72,8 @@
 
 <img width="895" height="231" alt="image" src="https://github.com/user-attachments/assets/55703aa2-ba9d-4626-a4aa-810a7f2f5399" />
 
+---
+
 ## Встановлення операційної системи GNU/Linux з графічною оболонкою
 
 ### Процес встановлення операційної системи Ubuntu у VirtualBox:
@@ -82,3 +84,21 @@
 
 <img width="1303" height="901" alt="image" src="https://github.com/user-attachments/assets/bcffa43a-0717-449c-b290-10fb6e6b986f" />
 
+---
+
+## Створення другої віртуальної машини та робота з графічними оболонками
+
+### Створення другої віртуальної машини:
+Для виконання завдання була створена друга віртуальна машина VM2_Linux_CLI у середовищі Oracle VirtualBox.
+
+<img width="1231" height="648" alt="image" src="https://github.com/user-attachments/assets/33df5595-4073-4a89-bd28-303c4b9926ae" />
+
+Під час створення було задано основні параметри: обсяг оперативної пам’яті, кількість процесорів та розмір віртуального жорсткого диска.
+### Параметри VM:
+1. Операційна система: Linux (Ubuntu 64-bit)
+2. Оперативна пам’ять: 2048 МБ
+3. Процесор: 2 CPU
+4. Тип диска: VDI, динамічний
+5. Обсяг диска: 25 ГБ
+
+<img width="1266" height="589" alt="image" src="https://github.com/user-attachments/assets/91d45bdb-2d11-4c1d-954e-ac4b62696a35" />
