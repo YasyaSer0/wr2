@@ -135,3 +135,11 @@
 | Швидкодія | Середня | Висока |
 | Призначення | Для повсякденної роботи | Для слабких ПК |
 
+---
+
+## Conclusion
+
+During the completion of work-case №2, the Oracle VirtualBox hypervisor was installed, two virtual machines were created, and GNU/Linux operating systems were installed in different configurations.  
+The functionality of the GNOME and XFCE graphical environments was studied and their capabilities were compared.  
+The acquired skills make it possible to effectively work with virtualization technologies and various Linux environments.
+
