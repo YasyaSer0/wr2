@@ -71,3 +71,13 @@
 За необхідності можуть бути створені фільтри USB-пристроїв для автоматичного підключення.
 
 <img width="895" height="231" alt="image" src="https://github.com/user-attachments/assets/55703aa2-ba9d-4626-a4aa-810a7f2f5399" />
+
+## Встановлення операційної системи GNU/Linux з графічною оболонкою
+### Процес встановлення операційної системи Ubuntu у VirtualBox
+
+<img width="884" height="781" alt="image" src="https://github.com/user-attachments/assets/3f6d7f97-f2ad-4627-b213-1ce803d0baad" />
+
+### Успішно встановлена операційна система Ubuntu з графічною оболонкою GNOME
+
+<img width="1303" height="901" alt="image" src="https://github.com/user-attachments/assets/bcffa43a-0717-449c-b290-10fb6e6b986f" />
+
