@@ -93,6 +93,7 @@
 <img width="1231" height="648" alt="image" src="https://github.com/user-attachments/assets/33df5595-4073-4a89-bd28-303c4b9926ae" />
 
 Під час створення було задано основні параметри: обсяг оперативної пам’яті, кількість процесорів та розмір віртуального жорсткого диска.
+
 **Параметри VM:**
 1. Операційна система: Linux (Ubuntu 64-bit)
 2. Оперативна пам’ять: 2048 МБ
@@ -103,3 +104,13 @@
 <img width="1266" height="589" alt="image" src="https://github.com/user-attachments/assets/91d45bdb-2d11-4c1d-954e-ac4b62696a35" />
 
 ### Встановлення GNU/Linux у мінімальній конфігурації (CLI)
+На створену віртуальну машину було встановлено операційну систему GNU/Linux (Ubuntu Server / Minimal) без графічного інтерфейсу, з використанням лише термінального введення-виведення (CLI).
+
+Під час встановлення було створено користувача та виконано базове налаштування системи.
+
+**Процес інсталяції в терміналі**
+<img width="1317" height="930" alt="image" src="https://github.com/user-attachments/assets/4c6010d7-a6f5-425e-aecf-f9a9ca12eb3b" />
+
+**Успішний вхід у систему через консоль**
+<img width="1319" height="960" alt="image" src="https://github.com/user-attachments/assets/32dba00b-bc37-4c67-9e1f-251df3cb4bef" />
+
