@@ -41,6 +41,8 @@
 
 У результаті було створено порожню віртуальну машину, готову до подальшого налаштування та встановлення операційної системи.
 
+<img width="1227" height="614" alt="image" src="https://github.com/user-attachments/assets/e48a63e2-8eeb-4630-be16-0f856e486667" />
+
 <img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/c26611b6-b067-4531-8041-6cc58f58f345" />
 
 ### Вибір та додавання обладнання для віртуальної машини
